@@ -11,6 +11,7 @@
         <module>hr-common</module>
         <module>hr-auth</module>
         <module>hr-org</module>
+        <module>hr-employee</module>
     </modules>
 
     <properties>
