@@ -1,1 +1,2 @@
 com\hr\auth\entity\SysUser.class
+com\hr\auth\utils\JwtUtils.class
