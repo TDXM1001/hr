@@ -10,6 +10,7 @@
     <modules>
         <module>hr-common</module>
         <module>hr-auth</module>
+        <module>hr-org</module>
     </modules>
 
     <properties>
